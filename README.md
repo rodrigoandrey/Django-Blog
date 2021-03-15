@@ -11,6 +11,7 @@
 - Custom Querys for filters in DataBase
 - Standards
 - Templates (Include + Extends + Blocks)
+- django-stdimage module
 
 
 *This project will be uploaded in GCP (Google Cloud Platform) soon.
