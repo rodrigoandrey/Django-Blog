@@ -3,6 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="f954d475-5ac9-4050-ada3-a3f549b3fafd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post_img/2021/03/11/chip_circuit_processor_140251_1280x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post_img/2021/03/11/fQnjSbW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post_img/2021/03/11/linux_debian_brand_logo_spiral_93908_1280x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post_img/2021/03/11/linux_linux_mint_black_gnu_103855_1280x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post_img/2021/03/11/windows_field_grass_operating_system_74340_1280x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post_img/2021/03/11/zenit_retro_camera_photos_map_107245_1280x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/templates/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/templates/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/partials/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/partials/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,10 +41,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PROJETOS/FACULDADE/WorkspaceEvent" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615523157250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adicionado Requirements.txt">
+      <created>1615524205391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615524205391</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -67,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projeto Finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto Finalizado" />
+    <MESSAGE value="Adicionado Requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado Requirements.txt" />
   </component>
 </project>

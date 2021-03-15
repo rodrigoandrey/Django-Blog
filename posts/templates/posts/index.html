@@ -9,7 +9,7 @@
                     {% if post.imagem_post %}
                     <a href="{% url 'post_detalhes' post.id %}">
                         <img class="card-img-top"
-                             src="{{ post.imagem_post.url }}"
+                             src="{{ post.imagem_post.thumb.url }}"
                              alt="{{ post.titulo_post }}">
                     </a>
                     {% endif %}

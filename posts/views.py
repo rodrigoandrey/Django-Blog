@@ -1,17 +1,18 @@
+from django.contrib import messages
 from django.shortcuts import render, redirect
 from django.views.generic.list import ListView
 from django.views.generic.edit import UpdateView
-from django.contrib import messages
 from django.db.models import Q, Count, Case, When
-from comentarios.forms import FormComentario
+
+from posts.models import Post
 from comentarios.models import Comentario
-from .models import Post
+from comentarios.forms import FormComentario
 
 
 class PostIndex(ListView):
     model = Post
     template_name = 'posts/index.html'
-    paginate_by = 3
+    paginate_by = 6
     context_object_name = 'posts'
 
     def get_queryset(self):
