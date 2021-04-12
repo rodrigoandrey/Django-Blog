@@ -1,5 +1,8 @@
 # Django-Blog*
 
+OBS: main route /posts/
+
+```Ex: localhost:8080/posts/```
 
 # Blog Project (SQLite3) - What has been learned:
 
